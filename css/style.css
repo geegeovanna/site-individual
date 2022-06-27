@@ -1,0 +1,465 @@
+.wrapper{
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.red {
+    
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    
+}
+
+.red img{
+    width: 100%;
+    
+}
+
+.coluna{
+    position: absolute;
+    width: 247px;
+    height: 2268px;
+    left: 0px;
+    top: 596px;
+
+    background: #4B0001;
+}
+
+.linha1{
+    position: absolute;
+    width: 477px;
+    height: 168px;
+    left: 243px;
+    top: 2696px;
+
+    background: #4B0001;
+}
+
+.grifinoria{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    color: #000000;
+}
+
+.sonserina{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 20px;
+    color: #000000;
+    margin-left: 20px;
+}
+
+.corvinal{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 20px;
+    color: #000000;
+    margin-left: 20px;
+}
+
+.lufa-lufa{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 20px;
+    color: #000000;
+    margin-left: 20px;
+}
+
+.hp{
+    position: absolute;
+    width: 533px;
+    height: 193px;
+    left: 720px;
+    top: 2646px;
+
+    background: url(hpp.png);
+}
+
+.linha2{
+    position: absolute;
+    width: 657px;
+    height: 168px;
+    left: 926px;
+    top: 2696px;
+
+    background: #4B0001;
+}
+
+.hogwarts{
+    position: absolute;
+    width: 1000px;
+    left: 390px;
+    top: 1000px;
+}
+
+.hogwarts img{
+    width: 100%;
+}
+
+.titulo{
+    position: absolute;
+    width: 631px;
+    height: 116px;
+    left: 610px;
+    top: 600px;
+    text-decoration-line: underline;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size:  130px;
+    line-height: 83px;
+    
+
+    color: #000000;
+}
+
+.titulo1{
+    position: absolute;
+    width: 631px;
+    height: 116px;
+    left: 610px;
+    top: 600px;
+    text-decoration-line: underline;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size:  130px;
+    line-height: 83px;
+    
+
+    color: #5c0505;
+}
+
+.titulo2{
+    position: absolute;
+    width: 631px;
+    height: 116px;
+    left: 610px;
+    top: 600px;
+    text-decoration-line: underline;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size:  130px;
+    line-height: 83px;
+    
+
+    color: #052510;
+}
+
+.titulo3{
+    position: absolute;
+    width: 631px;
+    height: 116px;
+    left: 610px;
+    top: 600px;
+    text-decoration-line: underline;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size:  130px;
+    line-height: 83px;
+    
+
+    color: #044972;
+}
+
+.titulo4{
+    position: absolute;
+    width: 631px;
+    height: 116px;
+    left: 610px;
+    top: 600px;
+    text-decoration-line: underline;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size:  130px;
+    line-height: 83px;
+    
+
+    color: #f8d50f;
+}
+
+.texto{
+    position: absolute;
+    width: 1100px;
+    height: 300px;
+    left: 345px;
+    top: 1700px;
+
+    background: #2c313a;
+}
+
+.texto1{
+    position: absolute;
+    width: 1100px;
+    height: 300px;
+    left: 345px;
+    top: 1700px;
+
+
+    background: #f8d50f;
+}
+
+.texto2{
+    position: absolute;
+    width: 1100px;
+    height: 300px;
+    left: 345px;
+    top: 1700px;
+
+    background: #044972;
+}
+
+.texto3{
+    position: absolute;
+    width: 1100px;
+    height: 300px;
+    left: 345px;
+    top: 1700px;
+
+    background: #052510;
+}
+
+.texto4{
+    position: absolute;
+    width: 1100px;
+    height: 300px;
+    left: 345px;
+    top: 1700px;
+
+    background: #5c0505;
+}
+
+.brasao{
+    position: absolute;
+    width: 500px;
+    left: 980px;
+    top: 2080px;
+}
+.brasao img{
+    width: 100%;
+}
+
+.tt{
+    position: absolute;
+    width: 560px;
+    height: 500px;
+    left: 312px;
+    top: 2150px;
+
+    background: #2c313a;
+}
+
+.fundador1{
+    position: absolute;
+    width: 430px;
+    left: 980px;
+    top: 2055px;
+}
+
+.fundador1 img{
+    width: 100%;
+}
+
+.helga{
+    left: 360px;
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    color: #000000;
+    top: 2025px;
+    position: absolute;
+    font-size: 50px;
+}
+
+.Casas{
+    left: 360px;
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    color: #000000;
+    top: 2025px;
+    position: absolute;
+    font-size: 50px;
+}
+
+.salazar{
+    left: 360px;
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    color: #000000;
+    top: 2025px;
+    position: absolute;
+    font-size: 50px;
+}
+
+.Rowena{
+    left: 360px;
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    color: #000000;
+    top: 2025px;
+    position: absolute;
+    font-size: 50px;
+}
+
+.Godrico{
+    left: 360px;
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    color: #000000;
+    top: 2025px;
+    position: absolute;
+    font-size: 50px;
+}
+
+.tt1{
+    position: absolute;
+    width: 560px;
+    height: 500px;
+    left: 312px;
+    top: 2150px;
+
+    background: #f8d50f;
+}
+
+.tt2{
+    position: absolute;
+    width: 560px;
+    height: 500px;
+    left: 312px;
+    top: 2150px;
+
+    background: #044972;
+}
+
+.tt3{
+    position: absolute;
+    width: 560px;
+    height: 500px;
+    left: 312px;
+    top: 2150px;
+
+    background: #052510;
+}
+
+.tt4{
+    position: absolute;
+    width: 560px;
+    height: 500px;
+    left: 312px;
+    top: 2150px;
+
+    background: #5c0505;
+}
+
+.fundador2{
+    position: absolute;
+    width: 430px;
+    left: 980px;
+    top: 2055px;
+}
+
+.fundador2 img{
+    width: 100%;
+}
+
+.fundador3{
+    position: absolute;
+    width: 430px;
+    left: 980px;
+    top: 2055px;
+}
+
+.fundador3 img{
+    width: 100%;
+}
+
+.fundador4{
+    position: absolute;
+    width: 430px;
+    left: 980px;
+    top: 2046px;
+}
+
+.fundador4 img{
+    width: 100%;
+}
+
+.gg{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.gg1{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.ss{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.ss1{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.cc{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.cc1{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.ll{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ll1{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hh{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.hh1{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
